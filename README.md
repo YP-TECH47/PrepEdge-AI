@@ -20,7 +20,7 @@
 
 <h2 id="introduction"> 1. Introduction 👋 </h2>
 <p>
-    <b>PrepEdge AI</b> is a full-stack platform that helps users prepare for job interviews through tailored mock interviews, automatic answer evaluation, and PDF-based reports.
+    <b>PrepEdge AI</b> is a student-focused career preparation platform designed to help students evaluate and improve their resumes before applying for internships and job opportunities. It provides AI-powered resume analysis, ATS scoring, and actionable feedback to help students build stronger, job-ready resumes.
 </p>
 
 ---
