@@ -1,9 +1,6 @@
 <h1 align="center"> PrepEdge AI </h1>
 <p align="center"> An AI enabled smart Interview Preparation Platform </p>
 
-<p align="center">
-  🔗 <a href="https://prepedgeai.vercel.app"><b>Live Demo → prepedgeai.vercel.app</b></a>
-</p>
 
 ![Render](https://img.shields.io/badge/Backend-Render-blue) ![Vercel](https://img.shields.io/badge/Frontend-Vercel-black) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![GSSoC 2025](https://img.shields.io/badge/-GSSoC_2025-orange)
 
