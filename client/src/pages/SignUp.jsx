@@ -181,7 +181,7 @@ export default function SignUp() {
 			);
 
 			setUser(result.user);
-			console.log("User signed in:", user);
+			
 
 			showToast("Successfully signed in with Google!", "success");
 			setTimeout(() => {

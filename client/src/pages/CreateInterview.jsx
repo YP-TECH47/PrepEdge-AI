@@ -120,7 +120,7 @@ export default function SetupForm() {
 	const handleSubmit = async (e) => {
 		e.preventDefault();
 		if (!user) {
-			console.error("❌ User is null in CreateInterview.jsx");
+		
 			return;
 		}
 		setLoading(true);
